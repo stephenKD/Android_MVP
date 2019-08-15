@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android-MVP-Retrofit2-RxJava</string>
+    <string name="title_activity_base">BaseActivity</string>
+</resources>
