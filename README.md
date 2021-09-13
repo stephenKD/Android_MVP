@@ -1,3 +1,3 @@
 # Android-mvp for Java
-Android MVC architecture in java.  
+Android MVP architecture in java.  
 android java + retrofit2 + rxJava
